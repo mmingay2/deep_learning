@@ -6,6 +6,8 @@ Deep Learning Development
 
 ## This folder includes code for utilizing LSTM to make predictions for stock data and cryptocurrency data
 
+[Learn More about LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 ### Key considerations for using LSTM for sequential prediction:
 
 1. Recurrent nets can model sequential data becuase the hidden state is affected by the input AND the previous hidden state.
