@@ -2,7 +2,7 @@
 
 ---
 
-### This folder includes code for utilizing LSTM to make predictions for stock data and cryptocurrency data
+#### This folder includes code for utilizing LSTM to make predictions for stock data and cryptocurrency data
 
 [Learn More about LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
