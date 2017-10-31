@@ -1,10 +1,8 @@
-# deep_learning
-
-Deep Learning Development
+# Deep Learning
 
 ---
 
-## This folder includes code for utilizing LSTM to make predictions for stock data and cryptocurrency data
+### This folder includes code for utilizing LSTM to make predictions for stock data and cryptocurrency data
 
 [Learn More about LSTMs](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
@@ -15,6 +13,8 @@ Deep Learning Development
 2. A solution to the vanishing gradient problem is to use LSTM cells to remember long-term dependencies.
 
 3. We can use LSTM networks for tie series data easily using Keras and Tensorflow.
+
+---
 
 ![deep](https://static.electronicsweekly.com/wp-content/uploads/2016/09/23095319/image.png)
 
